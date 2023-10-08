@@ -11,8 +11,8 @@ Registrasi
 
 #### Langkah-langkah memasak
 Algorithm / Pseudocode:
+- Initialize list of dict
 - Ketika aplikasi dijalankan:
-    * Initialize list of dict
     * Ucapkan selamat datang
     * Minta input name, minimal 4 karakter
     * Validasi nama, apakah nama kurang dari 4 karakter:
